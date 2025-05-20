@@ -15,56 +15,9 @@ Welcome to the **OpenCV Collections** repository! This repository features vario
 3. **Virtual Try-On Glasses using OpenCV**  
    A webcam-based virtual try-on system that detects facial landmarks using MediaPipe and overlays a transparent glasses image onto the user's face. It simulates how glasses would look on the user's face in real-time.
 
----
-
-## 🚀 Getting Started
-
-Each project is designed to be standalone. Follow the instructions in their respective sections to set them up and run them on your machine.
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/opencv-collections.git
-```
-
-2. **Install dependencies:**
-
-Each project has its own set of dependencies. Use the `requirements.txt` file for each project to install the necessary libraries. Navigate to the project directory and install using:
-
-```bash
-pip install -r requirements.txt
-```
-
-Alternatively, install the required libraries manually:
-
-```bash
-pip install opencv-python mediapipe numpy
-```
 
 ---
 
-## 📁 Project Structure
-
-The repository is structured as follows:
-
-```
-opencv-collections/
-├── autonomous-drone-vision/          # Autonomous Drone Vision System project
-│   ├── main.py
-│   ├── requirements.txt
-│   └── README.md
-├── hand-gesture-detection/          # Hand Gesture Detection project
-│   ├── hand_gesture_detection.py
-│   ├── requirements.txt
-│   └── README.md
-├── virtual-try-on-glasses/          # Virtual Try-On Glasses project
-│   ├── virtual_try_on_glasses.py
-│   ├── requirements.txt
-│   └── README.md
-└── README.md                        # Main repository README
-```
-
----
 
 ## 🧠 How It Works
 
@@ -96,8 +49,5 @@ This repository is open-source and free to use for educational and non-commercia
 
 ---
 
-## 📬 Contact
 
-Feel free to reach out if you have questions, suggestions, or want to contribute. You can contact me at:  
-**[Your Email or GitHub Profile Link]**
 
